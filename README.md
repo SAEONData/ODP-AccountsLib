@@ -1,5 +1,7 @@
 # ODP Accounts Lib
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 Data access layer for the SAEON Open Data Platform Accounts Database.
 
 This library provides data models and database initialization code.
